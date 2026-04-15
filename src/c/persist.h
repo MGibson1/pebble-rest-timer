@@ -8,9 +8,9 @@
 #define CURRENT_SETTINGS_VERSION 1
 
 typedef struct persist{
-  uint8_t up;
-  uint8_t select;
-  uint8_t down;
+  uint16_t up;
+  uint16_t select;
+  uint16_t down;
   bool theme;
 }__attribute__((__packed__)) persist;
 
