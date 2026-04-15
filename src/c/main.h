@@ -19,8 +19,8 @@ char m_select[]="000";
 char m_down[]="000";
 
 persist settings = {
-  .up = 120,
-  .select = 90,
+  .up = 360,
+  .select = 120,
   .down = 60,
   .theme = 0
 };
