@@ -1,6 +1,6 @@
 .lock-waf_darwin_build
 build/*
-!build/rest.pbw
+!build/long-rest.pbw
 src/js/
 wscript.backup
 

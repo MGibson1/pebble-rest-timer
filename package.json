@@ -1,15 +1,15 @@
 {
-    "author": "clach04",
+    "author": "mgibson1",
     "dependencies": {}, 
     "keywords": [
         "pebble-app"
     ], 
-    "name": "Rest", 
+    "name": "Long Rest", 
     "pebble": {
         "capabilities": [
             "configurable"
         ], 
-        "displayName": "Rest", 
+        "displayName": "Long Rest", 
         "enableMultiJS": true,
         "messageKeys": [
             "down",
