@@ -5,3 +5,6 @@ src/js/
 wscript.backup
 
 node_modules/
+
+.lock*
+*.pbw
